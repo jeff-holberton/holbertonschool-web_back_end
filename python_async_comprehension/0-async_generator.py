@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""async generator"""
+"""async generator that yields a random number per iteration"""
 
 import asyncio
 import random
